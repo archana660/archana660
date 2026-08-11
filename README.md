@@ -1,160 +1,92 @@
-<div align="center">
+# 👋 Hi, I'm Archana Dwivedi
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0%3A0d1117%2C100%3A1f6feb&section=header&text=ARCHANA%20DWIVEDI&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Sr.%20DevOps%20Engineer&descSize=18&descAlignY=58" alt="Archana Dwivedi — Sr. DevOps Engineer" />
+### ☁️ Sr. DevOps Engineer | Azure | Terraform | CI/CD | Kubernetes
 
-**Azure Cloud • Terraform • CI/CD • Kubernetes • DevSecOps**
+> **Building reliable infrastructure • Automating delivery • Securing the cloud**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=520&lines=Azure+Cloud;Terraform;Infrastructure+as+Code;CI%2FCD+Automation;Kubernetes+%2F+AKS;DevSecOps" alt="Focus areas" />
+### 🌐 Explore My Portfolio
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archana660)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archana-dwivedi231/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arch2731@gmail.com)
+**[🚀 archanadwivedi.lovable.app](https://archanadwivedi.lovable.app/)**
 
-<img src="https://komarev.com/ghpvc/?username=archana660&label=Profile+Views&color=0D1117&style=flat-square" alt="Profile views" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-archana660-181717?style=for-the-badge\&logo=github)](https://github.com/archana660)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archana%20Dwivedi-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/archana-dwivedi231/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail)](mailto:arch2731@gmail.com)
 
 ---
 
-## 👩‍💻 WHOAMI
+## 👩‍💻 About Me
 
-<table><tr><td width="62%" valign="top">
+**Sr. DevOps Engineer with 8 years of overall IT experience**, including **4+ years focused on Azure Cloud, Terraform, Azure DevOps and CI/CD automation.**
 
-Senior DevOps Engineer with 8 years of overall IT experience, including 4+ years specializing in Azure Cloud, Infrastructure as Code (Terraform), Azure DevOps and CI/CD automation. Skilled in Docker, Kubernetes (AKS), GitHub Actions and DevSecOps practices, designing secure, scalable cloud architectures with security gates embedded across the delivery pipeline.
+I work on building **secure, scalable and automated cloud infrastructure** using Azure, Infrastructure as Code, containers and DevSecOps practices.
 
-📍 Delhi NCR, India
-
-</td><td width="38%" valign="top"><img src="https://project--e57879aa-e77b-4f7c-b079-b1cdf6cb957b.lovable.app/__l5e/assets-v1/535f7f72-de27-41b4-9492-c6701b80c3a0/devops-woman.png" width="100%" alt="DevOps engineer at work" /></td></tr></table>
+**Focus:** `Azure` · `Terraform` · `Azure DevOps` · `GitHub Actions` · `Docker` · `AKS` · `DevSecOps`
 
 ---
 
-## ⚡ SYSTEM STATUS
+## ⚡ What I Do
 
-| Layer | Technology | Focus |
-| --- | --- | --- |
-| Cloud | Microsoft Azure | Cloud Infrastructure |
-| IaC | Terraform | Infrastructure Automation |
-| CI/CD | Azure DevOps | Pipeline Automation |
-| CI/CD | GitHub Actions | Automation |
-| Containers | Docker | Containerization |
-| Kubernetes | AKS | Container Orchestration |
-| Security | tfsec / Checkov / TFLint | Security Gates |
-| Monitoring | Azure Monitor | Observability |
+| ☁️ Cloud     | 🏗️ Infrastructure | 🔄 Automation  | 🔐 Security |
+| ------------ | ------------------ | -------------- | ----------- |
+| Azure        | Terraform          | Azure DevOps   | tfsec       |
+| Landing Zone | IaC                | GitHub Actions | Checkov     |
+| Networking   | Modules            | CI/CD          | TFLint      |
+| AKS          | Remote State       | YAML           | SonarQube   |
 
 ---
 
-## 💼 EXPERIENCE
-
-### Sr. DevOps Engineer — Apex Websoft, Noida
-`March 2025 – Present`
-
-- Architected modular Terraform frameworks for Azure (VNets, NSGs, VMs, Storage, Key Vault) using reusable child modules and environment-specific .tfvars, cutting provisioning effort by ~50%.
-- Implemented Azure Blob remote backend with state locking and workspace isolation, eliminating state conflicts across dev, test, staging and production.
-- Built multi-stage Azure DevOps YAML pipelines with reusable templates (init, validate, tflint, tfsec, plan, approval gate, apply), enforcing zero infrastructure drift.
-- Configured GitHub Actions with OIDC Workload Identity Federation for keyless Azure authentication, removing all long-lived service principal secrets.
-
-### DevOps Engineer — Benthon Labs, Noida
-`April 2023 – Dec 2024`
-
-- Built reusable Terraform module libraries for Azure compute, hub-spoke VNet peering, Private DNS Zones and storage, adopted across 4 product teams.
-- Maintained Azure DevOps and GitHub Actions pipelines with tfsec/Checkov security gates and multi-environment approval stages, reducing manual handoffs.
-- Configured Key Vault-linked Variable Groups for secure secret injection in Azure DevOps pipelines, eliminating hardcoded credentials.
-- Administered Linux systems with Azure Monitor / Log Analytics alerting; led patch management and incident response.
-
-### Cloud Engineer (Azure) — ARP Technologies, Noida
-`Sept 2022 – Feb 2023`
-
-- Managed Azure deployments (VMs, storage, networking, load balancers) with RBAC and Managed Identities as first-class access control via the Azure Portal.
-- Worked with Azure Monitor and Log Analytics to review resource health and alerts.
-
-### Linux System Administrator — DriveIT Digital, Noida
-`April 2019 – August 2022`
-
-- Managed Linux servers, including user administration, package installation, patch management, backups and system health monitoring.
-- Performed server provisioning and access management; supported application deployments and coordinated with cross-functional teams during production releases.
-
----
-
-## 🔄 DEVOPS PIPELINE
+## 🚀 DevOps Journey
 
 ```text
-CODE → GIT → GITHUB → CI/CD
-                     ↓
-              VALIDATE / SECURITY
-                     ↓
-                 TERRAFORM
-                     ↓
-                   AZURE
-                     ↓
-                MONITORING
+        CODE
+          ↓
+     GIT / GITHUB
+          ↓
+       CI / CD
+          ↓
+   SECURITY CHECKS
+          ↓
+      TERRAFORM
+          ↓
+       AZURE
+          ↓
+     MONITORING
 ```
 
-`Azure DevOps` · `GitHub Actions` · `Terraform` · `TFLint` · `tfsec` · `Checkov` · `Azure Monitor` · `Log Analytics`
+`Azure DevOps` · `GitHub Actions` · `Terraform` · `Docker` · `AKS` · `Azure Monitor`
 
 ---
 
-## ☁️ CLOUD INFRASTRUCTURE
+## ☁️ Azure Stack
 
 ```text
-Microsoft Azure
-│
+Azure
+├── Landing Zone
 ├── Networking
 │   ├── VNets
-│   ├── Subnets
 │   ├── NSGs
-│   ├── Azure Firewall
+│   ├── Firewall
 │   └── Private Endpoints
-│
-├── Compute & Containers
-│   ├── Virtual Machines
+├── Compute
+│   ├── VMs
 │   ├── App Service
 │   └── AKS
-│
 ├── Security
 │   ├── Key Vault
 │   ├── RBAC
-│   ├── Managed Identities
-│   ├── Azure Policy
-│   └── PIM
-│
+│   └── Managed Identity
 └── Monitoring
     ├── Azure Monitor
-    ├── Log Analytics
-    └── Application Insights
+    └── Log Analytics
 ```
 
 ---
 
-## 🏛️ AZURE LANDING ZONE
+## 🏗️ Infrastructure as Code
 
-```text
-Azure Landing Zone
-        │
-        ├── Governance   → Azure Policy
-        │
-        ├── Identity     → Microsoft Entra ID · RBAC · PIM · Managed Identities
-        │
-        ├── Networking   → VNets · NSGs · Azure Firewall · Private Endpoints
-        │
-        ├── Security     → Key Vault · Defender for Cloud
-        │
-        └── Workloads    → App Service · AKS · Virtual Machines
-```
+**Terraform**
 
----
-
-## 🏗️ INFRASTRUCTURE AS CODE
-
-```text
-Terraform
-│
-├── Modules
-├── Variables
-├── Resources
-├── Workspaces
-├── Remote State
-└── Azure Blob Backend
-```
+`Modules` · `Variables` · `Workspaces` · `Remote State` · `Azure Blob Backend`
 
 ```bash
 terraform init
@@ -165,211 +97,78 @@ terraform apply
 
 ---
 
-## 🧩 TERRAFORM MODULES
+## 🔐 DevSecOps
 
 ```text
-Root Module
-     │
-     ├── Network Module    (VNets · Subnets · NSGs)
-     ├── Compute Module    (Virtual Machines)
-     ├── Storage Module    (Storage Accounts)
-     ├── Security Module   (RBAC · Managed Identities)
-     └── Key Vault Module  (Secrets)
+CODE → VALIDATE → SECURITY → APPROVAL → DEPLOY
 ```
 
----
-
-## 🔐 DEVSECOPS
-
-```text
-CODE
-  ↓
-VALIDATE        → TFLint
-  ↓
-IaC SECURITY    → tfsec · Checkov · Terrascan
-  ↓
-CODE SECURITY   → SonarQube · Snyk · TruffleHog · OWASP ZAP (SAST / DAST)
-  ↓
-APPROVAL
-  ↓
-DEPLOY
-```
+**Tools:**
+`tfsec` · `Checkov` · `TFLint` · `Terrascan` · `SonarQube` · `Snyk` · `TruffleHog` · `OWASP ZAP`
 
 ---
 
-## ☸️ KUBERNETES / AKS
+## 💼 Experience
 
-```text
-AKS
-│
-├── Nodes
-│
-├── Pods
-│
-├── Services
-│
-└── Helm
-```
+**Sr. DevOps Engineer — Apex Websoft**
+`Mar 2025 – Present`
 
----
+**DevOps Engineer — Benthon Labs**
+`Apr 2023 – Dec 2024`
 
-## 📊 MONITORING & OBSERVABILITY
+**Cloud Engineer (Azure) — ARP Technologies**
+`Sep 2022 – Feb 2023`
 
-```text
-Azure Resources
-      ↓
-Azure Monitor
-      ↓
-Log Analytics
-      ↓
-Application Insights
-      ↓
-Prometheus / Grafana
-```
+**Linux System Administrator — DriveIT Digital**
+`Apr 2019 – Aug 2022`
 
 ---
 
-## 🛠️ TECH STACK
+## 🛠️ Tech Stack
 
-**Cloud**
+**Cloud:** Azure · Azure Landing Zone · ARM
 
-`Microsoft Azure` · `Azure Landing Zone` · `Azure Resource Manager (ARM)`
+**IaC:** Terraform · Terraform Modules · Remote State
 
-**Infrastructure as Code**
+**CI/CD:** Azure DevOps · GitHub Actions · YAML
 
-`Terraform` · `Terraform Modules` · `Remote State Management` · `Workspaces` · `Azure Blob Backend`
+**Containers:** Docker · Kubernetes · AKS · Helm
 
-**CI/CD**
+**Security:** tfsec · Checkov · TFLint · SonarQube · Snyk · TruffleHog
 
-`Azure DevOps` · `GitHub Actions` · `YAML Pipelines`
+**Monitoring:** Azure Monitor · Log Analytics · Application Insights · Prometheus · Grafana
 
-**Containers & Orchestration**
-
-`Docker` · `Kubernetes (AKS)` · `Helm`
-
-**Security & DevSecOps**
-
-`tfsec` · `Checkov` · `TFLint` · `Terrascan` · `SonarQube` · `Snyk` · `TruffleHog` · `OWASP ZAP` · `SAST` · `DAST`
-
-**Azure Services**
-
-`VNets` · `Subnets` · `NSG` · `Azure Firewall` · `Private Endpoints` · `App Service` · `API Management (APIM)` · `Storage Account` · `Azure SQL` · `Key Vault` · `Azure Monitor` · `Log Analytics` · `Defender for Cloud` · `Cost Management`
-
-**Identity & Governance**
-
-`Microsoft Entra ID` · `RBAC` · `Managed Identities` · `Azure Policy` · `PIM`
-
-**Monitoring**
-
-`Prometheus` · `Grafana` · `Azure Monitor` · `Log Analytics` · `Application Insights`
-
-**Scripting & Automation**
-
-`PowerShell` · `Bash` · `YAML` · `HCL` · `Azure CLI` · `Git` · `Ansible (Basics)`
-
-**Data & Integration**
-
-`Azure Data Factory` · `Azure Logic Apps`
-
-**AI & Emerging Tech**
-
-`MCP (Model Context Protocol) Servers` · `GitHub Copilot` · `AI-Assisted DevOps Automation` · `Prompt Engineering (Basics)` · `LLM-based Tooling (Basics)`
+**Automation:** PowerShell · Bash · Azure CLI · Git · Ansible
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 📊 GitHub
 
-_Projects can be added from verified repository links._
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archana660\&show_icons=true\&hide_border=true\&theme=github_dark)
 
----
-
-## 📈 GITHUB COMMAND CENTER
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=archana660&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana660&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=archana660&hide_border=true&theme=github_dark" alt="Contribution streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=archana660&hide_border=true&theme=github-compact" alt="Contribution activity" />
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=archana660\&hide_border=true\&theme=github_dark)
 
 ---
 
-## 💻 TERMINAL
+## 🎓 Education
 
-```text
-archana@devops:~$ whoami
-Archana Dwivedi
-
-archana@devops:~$ role
-Sr. DevOps Engineer
-
-archana@devops:~$ cloud
-Microsoft Azure
-
-archana@devops:~$ iac
-Terraform
-
-archana@devops:~$ cicd
-Azure DevOps / GitHub Actions
-
-archana@devops:~$ containers
-Docker / Kubernetes (AKS) / Helm
-
-archana@devops:~$ security
-DevSecOps — tfsec / Checkov / TFLint
-
-archana@devops:~$ monitoring
-Azure Monitor / Log Analytics
-```
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=460&lines=terraform+plan+-out%3Dtfplan;az+aks+get-credentials;kubectl+get+pods+-A" alt="Terminal animation" /></div>
+**B.Tech — Computer Science**
+UPTU, Moradabad · `2010 – 2014`
 
 ---
 
-## 🧭 CAREER JOURNEY
+## 📫 Let's Connect
 
-```text
-Linux System Administrator  (April 2019 – August 2022)
-        ↓
-Cloud Engineer (Azure)  (Sept 2022 – Feb 2023)
-        ↓
-DevOps Engineer  (April 2023 – Dec 2024)
-        ↓
-Sr. DevOps Engineer  (March 2025 – Present)
-```
+🌐 **Portfolio:** [archanadwivedi.lovable.app](https://archanadwivedi.lovable.app/)
+
+💼 **LinkedIn:** [Archana Dwivedi](https://www.linkedin.com/in/archana-dwivedi231/)
+
+💻 **GitHub:** [archana660](https://github.com/archana660)
+
+📧 **Email:** [arch2731@gmail.com](mailto:arch2731@gmail.com)
 
 ---
 
-## 🎓 EDUCATION
+### `BUILD → AUTOMATE → SECURE → DEPLOY → IMPROVE`
 
-**B.Tech — Computer Science**  
-UPTU, Moradabad  
-`August 2010 – June 2014`
-
----
-
-## 📫 CONNECT
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archana660)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archana-dwivedi231/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arch2731@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-```text
-Thanks for visiting my GitHub ⭐
-
-BUILD → AUTOMATE → SECURE → DEPLOY → IMPROVE
-```
-
-</div>
+⭐ Thanks for visiting my GitHub!
